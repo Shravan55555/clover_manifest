@@ -75,7 +75,6 @@
   <remove-project name="platform/external/setupcompat" />
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
-  <remove-project name="external/wpa_supplicant_8" />
   <remove-project name="platform/external/zstd" />
 
   <!-- frameworks -->
